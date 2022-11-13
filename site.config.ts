@@ -10,16 +10,16 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'lerazer个人博客',
-  domain: '33a86578356843a68ea1191ee9c7735e',
+  domain: 'ea18a8eefa7a4dd0bf65a951689ca4f6',
   author: 'lerazer',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  twitter: '',
+  github: '',
+  linkedin: '',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
